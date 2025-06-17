@@ -1,2 +1,2 @@
-source .venv/bin/activate
+source $1
 pip install -r requirements.txt
