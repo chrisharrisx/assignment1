@@ -1,2 +1,2 @@
-source $1
-pip install -r requirements.txt
+source $1/.venv/bin/activate
+pip install -r $1/requirements.txt
